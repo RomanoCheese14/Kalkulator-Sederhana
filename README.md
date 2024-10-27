@@ -37,7 +37,7 @@ Masukkan Input: KELUAR
 Program telah selesai.
 ```
 
-## Implementasi
+## Implementasi Program
 
 Program ini ditulis dalam bahasa pemrograman C. Berikut adalah beberapa fungsi kunci:
 - **FPB**: Menghitung Faktor Persekutuan Terbesar menggunakan algoritma Euclid.
