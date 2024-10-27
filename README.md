@@ -8,7 +8,7 @@ Pengguna diminta untuk memasukkan input dalam format berikut:
 ```
 OPERASI angka1 angka2
 ```
-- **OPERASI**: Salah satu dari `ADD`, `SUB`, `MULT`, `DIV`, `FACT`, `LCM`, `GCM`, atau `LOG`.
+- **OPERASI**: Salah satu dari `ADD`, `SUB`, `MULT`, `DIV`, `FACT`, `LCM`, `GCD`, atau `LOG`.
 - **angka1**: Angka pertama (diperlukan untuk sebagian besar operasi).
 - **angka2**: Angka kedua (diperlukan untuk operasi yang relevan).
 
