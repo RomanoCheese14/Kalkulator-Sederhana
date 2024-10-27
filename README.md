@@ -1,6 +1,6 @@
-# KALKULATOR ROMANO
+# KALKULATOR 
 
-Kalkulator Romano adalah kalkulator berbasis teks yang memungkinkan pengguna untuk melakukan berbagai operasi matematis. Program ini dirancang untuk memberikan hasil perhitungan dengan cepat dan mudah melalui antarmuka pengguna yang interaktif. Fitur-fitur utama dari kalkulator ini mencakup operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian; perhitungan faktorial; serta penghitungan Kelipatan Persekutuan Terkecil (KPK) dan Faktor Persekutuan Terbesar (FPB). Kalkulator ini juga menyediakan fungsi logaritma yang memungkinkan pengguna menghitung logaritma dari suatu bilangan dengan basis yang ditentukan.
+Kalkulator Romano adalah kalkulator berbasis teks yang melakukan berbagai operasi matematika. Fitur-fitur utama dari kalkulator ini mencakup operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian; perhitungan faktorial; serta penghitungan Kelipatan Persekutuan Terkecil (KPK) dan Faktor Persekutuan Terbesar (FPB). Kalkulator ini juga menyediakan fungsi logaritma yang memungkinkan pengguna menghitung logaritma dari suatu bilangan dengan basis yang ditentukan.
 
 ## Format Input
 
