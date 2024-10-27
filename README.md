@@ -44,3 +44,8 @@ Program ini ditulis dalam bahasa pemrograman C. Berikut adalah beberapa fungsi k
 - **KPK**: Menghitung Kelipatan Persekutuan Terkecil berdasarkan FPB.
 - **faktorial**: Menghitung faktorial suatu bilangan secara rekursif.
 - **logaritma**: Menghitung logaritma dari bilangan dengan basis yang ditentukan.
+
+## Penggunaan Program
+
+![Kalkulator Romano]
+
