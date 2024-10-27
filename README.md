@@ -49,5 +49,3 @@ Program ini ditulis dalam bahasa pemrograman C. Berikut adalah beberapa fungsi k
 
 [Kalkulator Romano](kalkulator.png)
 
-![Kalkulator Romano]
-
