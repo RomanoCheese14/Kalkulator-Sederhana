@@ -3,6 +3,22 @@
 #include <string.h>
 #include <stdlib.h>
 
+int tambah(int a, int b){
+    return a + b;
+}
+
+int kurang(int a, int b){
+    return a - b;
+}
+
+int kali(int a, int b){
+    return a * b;
+}
+
+int bagi(int a, int b){
+    return a / b;
+}
+
 int FPB(int a, int b){
     while(b !=0){
         int temp = b;
@@ -46,16 +62,16 @@ int main (){
          }
 
         if(strcmp(operasi, "ADD") == 0){
-            printf("Hasil perhitungan = %d\n", a + b);
+            printf("Hasil perhitungan = %d\n", tambah(a, b));
         }
         else if(strcmp(operasi, "SUB") == 0){
-            printf("Hasil perhitungan = %d\n", a - b);
+            printf("Hasil perhitungan = %d\n", kurang(a, b));
         }
         else if(strcmp(operasi, "MULT") == 0){
-            printf("Hasil perhitungan = %d\n", a * b);
+            printf("Hasil perhitungan = %d\n", kali(a, b));
         }
         else if(strcmp(operasi, "DIV") == 0){
-            printf("Hasil perhitungan = %d\n", a / b);
+            printf("Hasil perhitungan = %d\n", bagi(a, b));
         }
         else if(strcmp(operasi, "FACT") == 0){
             unsigned long long hasil = faktorial(a);
@@ -64,7 +80,7 @@ int main (){
         else if(strcmp(operasi, "LCM") == 0){
             printf("Hasil KPK = %d\n", KPK(a, b));
         }
-        else if(strcmp(operasi, "GCM") == 0){
+        else if(strcmp(operasi, "GCD") == 0){
             printf("Hasil FPB = %d\n", FPB(a, b));
         }
          else if(strcmp(operasi, "LOG") == 0){
